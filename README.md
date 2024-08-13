@@ -141,7 +141,7 @@ medical-data-extraction
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/medical-data-extraction.git
+    git clone https://github.com/Soma4141/MedExtract-Intelligent-OCR-for-Accurate-Medical-Data-Extraction-
     ```
 2. Navigate to the project folder:
     ```bash

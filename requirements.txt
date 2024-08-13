@@ -1,0 +1,10 @@
+pdf2image
+pytesseract
+opencv_python
+numpy
+Pillow
+pytest
+Fastapi
+uvicorn
+python-multipart
+streamlit

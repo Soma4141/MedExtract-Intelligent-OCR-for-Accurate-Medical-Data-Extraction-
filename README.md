@@ -1,12 +1,13 @@
 # Medical Data Extraction
 An OCR project to extract information about Patient and Prescription details from PDF Documents.
 Also this project involved creation of a backend server which will process data extraction requests.
+## Overview
+An OCR-based solution to extract and classify data from medical documents like prescriptions and patient records. The project enhances data accuracy and efficiency in healthcare management.
 
 ## Demo
 
 https://github.com/abhijeetk597/medical-data-extraction/assets/138308825/3d5d90e8-2858-4831-b1d5-97a3874f256c
 
-## [Click here to see project presentation](https://youtu.be/xh0livz2tSY)
 
 ## Overview
 1. [What is OCR?](#a1)
@@ -137,11 +138,16 @@ medical-data-extraction
 └───reference
         tesseract_papar_by_google.pdf
 ```
-## <a name="a8">8. If you are cloning this repository?</a>
-- Install all dependancies from `requirements.txt`
-- For `pdf2image` you need to [download `poppler`](https://github.com/belval/pdf2image?tab=readme-ov-file#how-to-install)
-- Install Tesseract OCR Engine in your PC
-    - [Tesseract installation instrution : Github](https://github.com/tesseract-ocr/tesseract#installing-tesseract)
-    - [Tesseract windows specific instructions: Github](https://github.com/UB-Mannheim/tesseract/wiki)
-- Set required PATHs as per your environment
-> [Demo video to clone and run this project in your machine.](https://youtu.be/UWmOePHzePM)
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/medical-data-extraction.git
+    ```
+2. Navigate to the project folder:
+    ```bash
+    cd medical-data-extraction
+    ```
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
